@@ -1,4 +1,5 @@
-# Observación
+# Observación probando
+
 
 def conversor(tipo_peso, valor_dolar):
     pesos = input("Cuantos pesos " + tipo_peso +  " tienes?:  ")
